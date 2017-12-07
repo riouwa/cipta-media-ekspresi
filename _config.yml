@@ -2,14 +2,14 @@
 title: Cipta Media Ekspresi
 timezone: Asia/Jakarta
 collections:
+  juri-cme:
+    title: Juri
+    output: true
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
-    output: true
-  juri-cme:
-    title: Juri
     output: true
 description: Halaman pembuka Cipta Media Ekspresi, Perayaan pengetahuan dan kreatifitas
   ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana
