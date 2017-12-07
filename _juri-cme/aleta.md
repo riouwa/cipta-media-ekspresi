@@ -1,7 +1,7 @@
 ---
 name: Aleta Baun
 posisi: Aktivis Lingkungan
-foto: /static/img/juricme/aleta.jpg
+foto: "/static/img/juricme/aleta.jpg"
 layout: people
 ---
 

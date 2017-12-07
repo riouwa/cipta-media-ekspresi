@@ -5,13 +5,12 @@ collections:
   posts:
     title: Posts
     output: true
-  juri-cme:
-    title: Juri
+  uploads:
+    title: Uploads
     output: true
-  panitia:
-    title: Panitia
-    output: true
-description: Halaman pembuka Cipta Media Ekspresi, Perayaan pengetahuan dan kreatifitas ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana tunai.
+description: Halaman pembuka Cipta Media Ekspresi, Perayaan pengetahuan dan kreatifitas
+  ekspresi perempuan dalam aneka ragam bentuk dan dinamikanya dengan rupa hibah dana
+  tunai.
 keywords: Seni, Budaya, Perempuan, Karya, Hibah, Ford Foundation
 disqus:
   name: nama_disini
@@ -24,8 +23,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-baseurl: ""
-defaults:
-  -
-    values:
-      layout: "post"

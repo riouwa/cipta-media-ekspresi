@@ -1,7 +1,7 @@
 ---
 name: Heidi Arbuckle
 posisi: Inisiator Program
-foto: /static/img/juricme/heidi.jpg
+foto: "/static/img/juricme/heidi.jpg"
 layout: people
 ---
 

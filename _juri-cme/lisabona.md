@@ -1,7 +1,7 @@
 ---
 name: Lisabona Rahman
 posisi: Juri Utama
-foto: /static/img/juricme/lisabona.jpg
+foto: "/static/img/juricme/lisabona.jpg"
 layout: people
 ---
 

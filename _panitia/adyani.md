@@ -1,7 +1,7 @@
 ---
 name: Adyani Widowati
 posisi: Program Assistant Creativity and Freedom of Expression
-foto: /static/img/panitiacme/adyani.png
+foto: "/static/img/panitiacme/adyani.png"
 layout: people
 ---
 

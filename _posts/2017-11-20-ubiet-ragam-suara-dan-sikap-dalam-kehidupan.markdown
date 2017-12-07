@@ -1,10 +1,10 @@
 ---
-title: "Nyak Ina Raseuki (Ubiet): Keragaman Musikalitas dan Sikap dalam Kehidupan"
-date: 2017-11-20
+title: 'Nyak Ina Raseuki (Ubiet): Keragaman Musikalitas dan Sikap dalam Kehidupan'
+date: 2017-11-20 00:00:00 +07:00
+permalink: "/ubiet/ragam-suara-dan-sikap-dalam-kehidupan/"
 categories:
 - CME
 - Wawancara Juri
-permalink: /ubiet/ragam-suara-dan-sikap-dalam-kehidupan/
 author: siska
 comments: true
 ---

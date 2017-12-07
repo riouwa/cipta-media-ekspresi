@@ -1,7 +1,7 @@
 ---
 name: Siska Doviana
 posisi: Manager Hibah
-foto: /static/img/panitiacme/siska.png
+foto: "/static/img/panitiacme/siska.png"
 layout: people
 ---
 

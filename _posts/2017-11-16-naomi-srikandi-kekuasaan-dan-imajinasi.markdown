@@ -1,11 +1,11 @@
 ---
-title: "Naomi Srikandi : Kekuasaan dan Imajinasi"
-date: 2017-11-16
+title: 'Naomi Srikandi : Kekuasaan dan Imajinasi'
+date: 2017-11-16 00:00:00 +07:00
+permalink: "/naomi-srikandi/kekuasaan-dan-imajinasi/"
 categories:
 - CME
 - Wawancara Juri
-permalink: /naomi-srikandi/kekuasaan-dan-imajinasi/
-img: /static/img/juricme/naomi.jpg
+img: "/static/img/juricme/naomi.jpg"
 author: hillun
 comments: true
 ---

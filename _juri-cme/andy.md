@@ -1,7 +1,7 @@
 ---
 name: Andy Yentriyani
 posisi: Aktivis Wanita
-foto: /static/img/juricme/andy.jpg
+foto: "/static/img/juricme/andy.jpg"
 layout: people
 ---
 

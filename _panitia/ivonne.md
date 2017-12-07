@@ -1,7 +1,7 @@
 ---
 name: Ivonne Kristiani
 posisi: Asisten Manager Hibah
-foto: /static/img/panitiacme/ivonne.png
+foto: "/static/img/panitiacme/ivonne.png"
 layout: people
 ---
 

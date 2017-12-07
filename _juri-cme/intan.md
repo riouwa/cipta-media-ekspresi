@@ -1,7 +1,7 @@
 ---
 name: Intan Paramaditha
 posisi: Dosen dan Penulis Fiksi
-foto: /static/img/juricme/intan.png
+foto: "/static/img/juricme/intan.png"
 layout: people
 ---
 

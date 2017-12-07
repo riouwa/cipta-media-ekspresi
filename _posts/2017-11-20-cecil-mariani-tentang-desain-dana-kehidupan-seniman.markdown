@@ -1,11 +1,11 @@
 ---
-title: "Cecil Mariani: Tentang Desain Dana Kehidupan Seniman"
-date: 2017-11-20
+title: 'Cecil Mariani: Tentang Desain Dana Kehidupan Seniman'
+date: 2017-11-20 00:00:00 +07:00
+permalink: "/cecil-mariani/tentang-desain-dana-kehidupan-seniman/"
 categories:
 - CME
 - Wawancara Juri
-permalink: /cecil-mariani/tentang-desain-dana-kehidupan-seniman/
-img: /static/img/juricme/cecil.jpg
+img: "/static/img/juricme/cecil.jpg"
 author: siska
 comments: true
 ---
